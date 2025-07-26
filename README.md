@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-**Aashi-Patni/Aashi-Patni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi, I’m Aashi Patni 👋 A data enthusiast, storyteller, and lifelong learner currently pursuing my MS in Business Analytics at the University of Minnesota. I come from a Computer Science background, have experience in leading technical and placement committees, and I’ve always been the kind of person who gets just as excited about SQL queries as I do about a good basketball game (former state athlete, by the way 🏀).
+## Hi, I’m Aashi Patni 👋 
+A data enthusiast, storyteller, and lifelong learner currently pursuing my MS in Business Analytics at the University of Minnesota. I come from a Computer Science background, have experience in leading technical and placement committees, and I’ve always been the kind of person who gets just as excited about SQL queries as I do about a good basketball game (former state athlete, by the way 🏀).
 
 I believe data isn’t just numbers, it’s insight, it’s behavior, it’s why things happen. Whether I’m helping a non-profit optimize logistics or building predictive models to identify premium users for a social music platform 🎶, I bring a problem-solving mindset, a sharp analytical toolkit, and just the right amount of caffeine ☕.
 
